@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/983687751209725993)](https://discord.com/users/983687751209725993)
 
-Hi 👋 My name is JustNight
+Hi 👋 My name is netuser1337
 ==========================
 
 Bot Developer and Web Developer
